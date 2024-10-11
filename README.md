@@ -1,4 +1,4 @@
-# edu_numerical_methods
+# Numerical methods tasks
 
 ## Task 4
 - Lagrange and Newton interpolation polynomials
